@@ -1,0 +1,11 @@
+README.md
+setup.py
+portalclientlib/__init__.py
+portalclientlib/client.py
+portalclientlib/errors.py
+portalclientlib/helpers.py
+portalclientlib/storage.py
+portalclientlib.egg-info/PKG-INFO
+portalclientlib.egg-info/SOURCES.txt
+portalclientlib.egg-info/dependency_links.txt
+portalclientlib.egg-info/top_level.txt

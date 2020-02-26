@@ -1,0 +1,17 @@
+2020-02-26 15:36:30,101 captiveportal[23415] DEBUG: Loading plugin sample_log
+2020-02-26 15:36:30,110 captiveportal[23415] DEBUG: Loading plugin iptables
+2020-02-26 15:36:30,110 captiveportal[23415] DEBUG: Loading plugin iptables
+2020-02-26 15:36:30,110 captiveportal[23415] DEBUG: iptables: Not enabled, skipping
+2020-02-26 15:36:30,110 captiveportal[23415] DEBUG: iptables: Not enabled, skipping
+2020-02-26 15:36:30,111 captiveportal[23415] DEBUG: Loading plugin ipset
+2020-02-26 15:36:30,111 captiveportal[23415] DEBUG: Loading plugin ipset
+2020-02-26 15:36:30,111 captiveportal[23415] DEBUG: ipset: Not enabled, skipping
+2020-02-26 15:36:30,111 captiveportal[23415] DEBUG: ipset: Not enabled, skipping
+2020-02-26 15:36:30,111 captiveportal[23415] DEBUG: Loading plugin portalclient
+2020-02-26 15:36:30,111 captiveportal[23415] DEBUG: Loading plugin portalclient
+2020-02-26 15:36:30,111 captiveportal[23415] DEBUG: portalclient: Not enabled, skipping
+2020-02-26 15:36:30,111 captiveportal[23415] DEBUG: portalclient: Not enabled, skipping
+2020-02-26 15:36:30,112 captiveportal[23415] DEBUG: Loading plugin postgres
+2020-02-26 15:36:30,112 captiveportal[23415] DEBUG: Loading plugin postgres
+2020-02-26 15:36:30,112 captiveportal[23415] DEBUG: postgres: Not enabled, skipping
+2020-02-26 15:36:30,112 captiveportal[23415] DEBUG: postgres: Not enabled, skipping

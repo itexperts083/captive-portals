@@ -1,0 +1,6 @@
+gunicorn
+rq
+redis
+Bottle
+sh
+python-iptables
